@@ -25,6 +25,8 @@ public class MavenClass {
 		String attribute = findElement.getAttribute("alt");
 		System.out.println(attribute);
 		
+		System.out.println("new line");
+		
 	}
 
 }
